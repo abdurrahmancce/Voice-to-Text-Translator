@@ -60,19 +60,13 @@
 
 ## 🌌 Dark Mode UI
 
-> Add your project screenshot here
+<img width="1920" height="1012" alt="image" src="https://github.com/user-attachments/assets/b34ddcb8-85ff-4e63-b99e-31ebf5480351" />
 
-```md
-/assets/dark-preview.png
-```
+---
 
 ## ☀️ Light Mode UI
 
-> Add your project screenshot here
-
-```md
-/assets/light-preview.png
-```
+<img width="1920" height="1016" alt="image" src="https://github.com/user-attachments/assets/ca3cbc8b-a793-41ae-bd07-bc85cf4ad175" />
 
 ---
 
@@ -231,17 +225,9 @@ in your browser.
 
 # 📸 Screenshots
 
-## 🎤 Voice Listening Mode
+## 🎤 Voice Listening Mode  & 🌍 Translation Output
 
-```md
-/assets/listening-mode.png
-```
-
-## 🌍 Translation Output
-
-```md
-/assets/translation-output.png
-```
+<img width="1920" height="1016" alt="image" src="https://github.com/user-attachments/assets/634da15d-32c4-4c07-81be-e9309ab5dc38" />
 
 ---
 
